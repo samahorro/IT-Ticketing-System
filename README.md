@@ -34,11 +34,11 @@ A simple command-line ticketing system written in Python that allows users to cr
 ## Creating a Ticket
 ![Create Ticket Screen](images/create_ticket.png)
 
-## Resolving a Tickets
+## Resolving Tickets
 
 ![Resolve Ticket Screen](images/resolve_ticket.png)
 
-## Viewing a Ticket
+## Viewing Tickets
 
 ![View Tickets Screen](images/view_ticket.png)
 
