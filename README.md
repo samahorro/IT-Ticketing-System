@@ -15,7 +15,7 @@ A simple command-line ticketing system written in Python that allows users to cr
 
 ## Requirements
 
-- Python 3.x
+- Python 3.13
 
 ---
 
