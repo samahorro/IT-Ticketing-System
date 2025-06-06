@@ -29,10 +29,16 @@ A simple command-line ticketing system written in Python that allows users to cr
    python main.py
 4. Follow the on-screen menu to create, view, or resolve tickets.
 
+## Screenshots
 
+## Creating a Ticket
 ![Create Ticket Screen](images/create_ticket.png)
 
+## Resolving a Tickets
+
 ![Resolve Ticket Screen](images/resolve_ticket.png)
+
+## Viewing a Ticket
 
 ![View Tickets Screen](images/view_ticket.png)
 
