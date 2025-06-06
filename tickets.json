@@ -1,1 +1,16 @@
-
+[
+    {
+        "ticket_id": 1,
+        "name": "Sam",
+        "issue": "blue screen of DEATH",
+        "priority": "High",
+        "status": "Resolved"
+    },
+    {
+        "ticket_id": 2,
+        "name": "John",
+        "issue": "I can't load into the website and its making me add my SSN",
+        "priority": "Medium",
+        "status": "Open"
+    }
+]
